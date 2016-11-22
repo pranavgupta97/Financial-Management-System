@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<com.datacontainers.Equipments>
+  <code>b29e</code>
+  <type></type>
+  <nameOfProduct>Satellite Transmitter</nameOfProduct>
+  <pricePerUnit>3500.0</pricePerUnit>
+  <EquipmentsTax>0.0</EquipmentsTax>
+  <fee>0.0</fee>
+</com.datacontainers.Equipments><com.datacontainers.Services>
+  <code>90fa</code>
+  <type></type>
+  <nameOfProduct>Short Distance Service</nameOfProduct>
+  <activationFee>2000.0</activationFee>
+  <annualFee>12000.0</annualFee>
+  <ServicesTax>0.0</ServicesTax>
+  <fee>0.0</fee>
+</com.datacontainers.Services><com.datacontainers.Consultations>
+  <code>782g</code>
+  <type></type>
+  <nameOfProduct>Office Wifi Setup</nameOfProduct>
+  <hourlyFee>150.0</hourlyFee>
+  <consultant>
+    <personCode>321nd</personCode>
+    <firstName> William</firstName>
+    <lastName>Thotroy</lastName>
+    <address>
+      <street>1060 West Addison Street</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zip>60613</zip>
+      <country>USA</country>
+    </address>
+    <email>
+      <string>willth@doctors.com</string>
+      <string>wth@who.com</string>
+    </email>
+  </consultant>
+  <ConsultationsTax>0.0</ConsultationsTax>
+  <computeFee>0.0</computeFee>
+  <fee>0.0</fee>
+</com.datacontainers.Consultations>

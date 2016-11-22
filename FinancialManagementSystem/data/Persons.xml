@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+  <personCode>944c</personCode>
+  <firstName>Sylvester</firstName>
+  <lastName>McCoy</lastName>
+  <address>
+    <street>1060 West Addison Street</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60613</zip>
+    <country>USA</country>
+  </address>
+  <email>
+    <string>smccoy@cubs.com</string>
+    <string>sylve_mccoy13@gmail.com</string>
+  </email>
+</person><person>
+  <personCode>ma12</personCode>
+  <firstName> Dale</firstName>
+  <lastName>Pete</lastName>
+  <address>
+    <street>1060 West Addison Street</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60613</zip>
+    <country>USA</country>
+  </address>
+  <email>
+    <string>pdale@cubs.com</string>
+  </email>
+</person><person>
+  <personCode>321nd</personCode>
+  <firstName> William</firstName>
+  <lastName>Thotroy</lastName>
+  <address>
+    <street>1060 West Addison Street</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60613</zip>
+    <country>USA</country>
+  </address>
+  <email>
+    <string>willth@doctors.com</string>
+    <string>wth@who.com</string>
+  </email>
+</person><person>
+  <personCode>nf32a</personCode>
+  <firstName> Bailey</firstName>
+  <lastName>Troughton</lastName>
+  <address>
+    <street>1060 West Addison Street</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60613</zip>
+    <country>USA</country>
+  </address>
+  <email>
+    <string>btroug@cse.unl.edu</string>
+    <string>btrou32@unl.edu</string>
+  </email>
+</person><person>
+  <personCode>321na</personCode>
+  <firstName> Goody</firstName>
+  <lastName>Stratler</lastName>
+  <address>
+    <street>301 Front St W</street>
+    <city> Toronto</city>
+    <state> ON</state>
+    <zip> M5V 2T6</zip>
+    <country> Canada</country>
+  </address>
+  <email>
+    <string>gstrat@whofan.com</string>
+  </email>
+</person><person>
+  <personCode>231</personCode>
+  <firstName> Holley</firstName>
+  <lastName>Earl</lastName>
+  <address>
+    <street>1 Blue Jays Way</street>
+    <city> Toronto</city>
+    <state> ON</state>
+    <zip> M5V 1J1</zip>
+    <country> Canada</country>
+  </address>
+  <email>
+    <string>famousholl@who.com</string>
+    <string>hearl@cse.unl.edu</string>
+    <string>holleyearl@whovian.com</string>
+    <string>earl12@bbc.com</string>
+  </email>
+</person><person>
+  <personCode>6doc</personCode>
+  <firstName> Richard</firstName>
+  <lastName>Hurndall</lastName>
+  <address>
+    <street>Campos El290</street>
+    <city>Mexico City</city>
+    <state> FD</state>
+    <zip></zip>
+    <country> Mexico</country>
+  </address>
+  <email>
+    <string>rhurndall@cse.unl.edu</string>
+    <string>richard@unl.edu</string>
+  </email>
+</person><person>
+  <personCode>321dr</personCode>
+  <firstName> Samantha </firstName>
+  <lastName>Baker</lastName>
+  <address>
+    <street>Avery Hall</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68503</zip>
+    <country>USA</country>
+  </address>
+  <email>
+    <string>sb@baker.com</string>
+  </email>
+</person><person>
+  <personCode>1svndr</personCode>
+  <firstName> Starlin</firstName>
+  <lastName>O&apos;Brien</lastName>
+  <address>
+    <street>126-01 Roosevelt Ave</street>
+    <city> Flushing</city>
+    <state> NY</state>
+    <zip>11368</zip>
+    <country>USA</country>
+  </address>
+  <email>
+    <string>slyguy@hotmail.com</string>
+    <string>obrein@whofan.com</string>
+  </email>
+</person><person>
+  <personCode>123lst</personCode>
+  <firstName> Paul</firstName>
+  <lastName>McGann</lastName>
+  <address>
+    <street>1 MetLife Stadium Dr</street>
+    <city> East Rutherford</city>
+    <state> NJ</state>
+    <zip>07073</zip>
+    <country>USA</country>
+  </address>
+  <email>
+    <string>pmcgann@mlb.com</string>
+    <string>pfoo@bar.com</string>
+    <string>pmc@unl.edu</string>
+  </email>
+</person>

@@ -1,0 +1,42 @@
+{
+  "pricePerUnit": 3500.0,
+  "EquipmentsTax": 0.0,
+  "fee": 0.0,
+  "code": "b29e",
+  "type": "",
+  "nameOfProduct": "Satellite Transmitter"
+}
+{
+  "activationFee": 2000.0,
+  "annualFee": 12000.0,
+  "ServicesTax": 0.0,
+  "fee": 0.0,
+  "code": "90fa",
+  "type": "",
+  "nameOfProduct": "Short Distance Service"
+}
+{
+  "hourlyFee": 150.0,
+  "consultant": {
+    "personCode": "321nd",
+    "firstName": " William",
+    "lastName": "Thotroy",
+    "address": {
+      "street": "1060 West Addison Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60613",
+      "country": "USA"
+    },
+    "email": [
+      "willth@doctors.com",
+      "wth@who.com"
+    ]
+  },
+  "ConsultationsTax": 0.0,
+  "computeFee": 0.0,
+  "fee": 0.0,
+  "code": "782g",
+  "type": "",
+  "nameOfProduct": "Office Wifi Setup"
+}

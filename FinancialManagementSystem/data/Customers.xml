@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customer>
+  <customerCode>C001</customerCode>
+  <contact>
+    <personCode>944c</personCode>
+    <firstName>Sylvester</firstName>
+    <lastName>McCoy</lastName>
+    <address>
+      <street>1060 West Addison Street</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zip>60613</zip>
+      <country>USA</country>
+    </address>
+    <email>
+      <string>smccoy@cubs.com</string>
+      <string>sylve_mccoy13@gmail.com</string>
+    </email>
+  </contact>
+  <name>Stark Industries</name>
+  <address>
+    <street>912 E Kirwin Ave</street>
+    <city> Salina</city>
+    <state> KS</state>
+    <zip> 67401</zip>
+    <country>USA</country>
+  </address>
+  <customerType>B</customerType>
+  <determineTax>true</determineTax>
+  <complianceFee>0.0</complianceFee>
+</customer><customer>
+  <customerCode>C003</customerCode>
+  <contact>
+    <personCode>231</personCode>
+    <firstName> Holley</firstName>
+    <lastName>Earl</lastName>
+    <address>
+      <street>1 Blue Jays Way</street>
+      <city> Toronto</city>
+      <state> ON</state>
+      <zip> M5V 1J1</zip>
+      <country> Canada</country>
+    </address>
+    <email>
+      <string>famousholl@who.com</string>
+      <string>hearl@cse.unl.edu</string>
+      <string>holleyearl@whovian.com</string>
+      <string>earl12@bbc.com</string>
+    </email>
+  </contact>
+  <name>University of Nebraska-Omaha</name>
+  <address>
+    <street>259 Avery Hall</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68588</zip>
+    <country>USA</country>
+  </address>
+  <customerType>B</customerType>
+  <determineTax>true</determineTax>
+  <complianceFee>0.0</complianceFee>
+</customer><customer>
+  <customerCode>C006</customerCode>
+  <contact>
+    <personCode>321dr</personCode>
+    <firstName> Samantha </firstName>
+    <lastName>Baker</lastName>
+    <address>
+      <street>Avery Hall</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68503</zip>
+      <country>USA</country>
+    </address>
+    <email>
+      <string>sb@baker.com</string>
+    </email>
+  </contact>
+  <name>Mr. Smith&apos;s #1 Supply Co. Inc.</name>
+  <address>
+    <street>456 West 7th St.</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zip>68500</zip>
+    <country>USA</country>
+  </address>
+  <customerType>R</customerType>
+  <determineTax>false</determineTax>
+  <complianceFee>125.0</complianceFee>
+</customer>

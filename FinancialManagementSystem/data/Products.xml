@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<products>
+<equipment>
+  <productCode>b29e</productCode>
+  <productName>Satellite Reciever</productName>
+  <price>2500.0</price>
+</equipment>
+<equipment>
+  <productCode>ff23</productCode>
+  <productName>Wireless5G Router</productName>
+  <price>124.99</price>
+</equipment>
+<equipment>
+  <productCode>fp12</productCode>
+  <productName>Netgear DSL Modem</productName>
+  <price>63.99</price>
+</equipment>
+<equipment>
+  <productCode>1239</productCode>
+  <productName>Digital Setup Box</productName>
+  <price>200.0</price>
+</equipment>
+<service>
+  <productCode>90fa</productCode>
+  <productName>Long Distance Service</productName>
+  <activationFee>2000.0</activationFee>
+  <annualFee>12000.0</annualFee>
+</service>
+<consultation>
+  <productCode>3289</productCode>
+  <productName>Turbo Upgrade-Internet</productName>
+  <hourlyFee>25.0</hourlyFee>
+  <consultant>
+    <personCode>aef1</personCode>
+    <firstName>Gordon</firstName>
+    <lastName>Gekko</lastName>
+    <address>
+      <street>1 Wall Street</street>
+      <city>New York</city>
+      <state>NY</state>
+      <zip>10005-0012</zip>
+      <country>USA</country>
+    </address>
+    <email>
+      <string>gekko@crazy.net</string>
+    </email>
+  </consultant>
+  <serviceFee>150.0</serviceFee>
+</consultation>
+<consultation>
+  <productCode>782g</productCode>
+  <productName>Home Wifi Setup</productName>
+  <hourlyFee>150.0</hourlyFee>
+  <consultant>
+    <personCode>321nd</personCode>
+    <firstName>William</firstName>
+    <lastName>Thotroy</lastName>
+    <address>
+      <street>1060 West Addison Street</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <zip>60613</zip>
+      <country>USA</country>
+    </address>
+    <email>
+      <string>willth@doctors.com</string>
+      <string>wth@who.com</string>
+    </email>
+  </consultant>
+  <serviceFee>150.0</serviceFee>
+</consultation>
+<service>
+  <productCode>3294</productCode>
+  <productName>L2 Home Security</productName>
+  <activationFee>0.0</activationFee>
+  <annualFee>35000.0</annualFee>
+</service>
+<service>
+  <productCode>3295</productCode>
+  <productName>Domain registration</productName>
+  <activationFee>350.0</activationFee>
+  <annualFee>1200.0</annualFee>
+</service>
+</products>

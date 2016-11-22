@@ -1,0 +1,91 @@
+{
+  "customerCode": "C001",
+  "contact": {
+    "personCode": "944c",
+    "firstName": "Sylvester",
+    "lastName": "McCoy",
+    "address": {
+      "street": "1060 West Addison Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60613",
+      "country": "USA"
+    },
+    "email": [
+      "smccoy@cubs.com",
+      "sylve_mccoy13@gmail.com"
+    ]
+  },
+  "name": "Stark Industries",
+  "address": {
+    "street": "912 E Kirwin Ave",
+    "city": " Salina",
+    "state": " KS",
+    "zip": " 67401",
+    "country": "USA"
+  },
+  "customerType": "B",
+  "determineTax": true,
+  "complianceFee": 0.0
+}
+{
+  "customerCode": "C003",
+  "contact": {
+    "personCode": "231",
+    "firstName": " Holley",
+    "lastName": "Earl",
+    "address": {
+      "street": "1 Blue Jays Way",
+      "city": " Toronto",
+      "state": " ON",
+      "zip": " M5V 1J1",
+      "country": " Canada"
+    },
+    "email": [
+      "famousholl@who.com",
+      "hearl@cse.unl.edu",
+      "holleyearl@whovian.com",
+      "earl12@bbc.com"
+    ]
+  },
+  "name": "University of Nebraska-Omaha",
+  "address": {
+    "street": "259 Avery Hall",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68588",
+    "country": "USA"
+  },
+  "customerType": "B",
+  "determineTax": true,
+  "complianceFee": 0.0
+}
+{
+  "customerCode": "C006",
+  "contact": {
+    "personCode": "321dr",
+    "firstName": " Samantha ",
+    "lastName": "Baker",
+    "address": {
+      "street": "Avery Hall",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68503",
+      "country": "USA"
+    },
+    "email": [
+      "sb@baker.com"
+    ]
+  },
+  "name": "Mr. Smith\u0027s #1 Supply Co. Inc.",
+  "address": {
+    "street": "456 West 7th St.",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68500",
+    "country": "USA"
+  },
+  "customerType": "R",
+  "determineTax": false,
+  "complianceFee": 125.0
+}
