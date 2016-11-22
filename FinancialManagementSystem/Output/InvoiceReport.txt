@@ -1,0 +1,100 @@
+INVOICE SUMMARY REPORT 
+================================= 
+Invoice    Customer                                 SalesPerson               SubTotal         Fees         Taxes        Total           
+INV004     Stark Industries                         Castro, David           $ 75064.38    $ 500.00       $ 3190.24  $ 78754.62        
+INV003     Vandelay Apartments                      Castro, David           $ 16702.83    $ 2125.00      $ 0.00     $ 18827.83        
+INV001     Stark Industries                         Eccleston, Chris        $ 10983.56    $ 2000.00      $ 604.30   $ 13587.86        
+INV002     University of Nebraska-Lincoln           Smith, Matt             $ 3574.75     $ 150.00       $ 243.36   $ 3968.11         
+=================================================================================================================================== 
+Totals                                                                      $ 106325.53   $ 4775.00      $ 4037.90  $ 115138.42       
+
+================================= 
+INVOICE DETAILS REPORTS 
+================================= 
+
+---------------------------------- 
+Invoice: INV004 
+Date:  Mar 01, 2016 
+---------------------------------- 
+Saleperson:  Castro David 
+Customer:  
+    Stark Industries ( C002 )  
+    ( Business ) 
+    [McCoy, Sylvester] 
+    912 E Kirwin Ave 
+   Salina,KS67401 USA 
+---------------------------------- 
+Code     Item                                                            SubTotal       Taxes        Fees           Total 
+728g     Home Wifi Setup  (10.0 hours at 0.0/hr)                        $ 1500.00    $ 63.75       $ 150.00 
+3294     L2 Home Security  (731.0 days at 0.0/yr)                       $ 70095.89   $ 2979.08     $ 0.00 
+3295     Domain registration  (1055.0 days at 0.0/yr)                   $ 3468.49    $ 147.41      $ 350.00 
+                                                                        =============================================== 
+SUB-TOTALS                                                              $ 75064.38   $ 3190.24     $ 500.00    $ 78754.62 
+COMPLIANCE FEE                                                                                                 $ 0.00 
+FINAL TOTAL                                                                                                    $ 78754.62 
+
+
+---------------------------------- 
+Invoice: INV003 
+Date:  Nov 23, 2015 
+---------------------------------- 
+Saleperson:  Castro David 
+Customer:  
+    Vandelay Apartments ( C005 )  
+    (Residential)  
+    [Tennant, Kaylee] 
+    1060 West Addison 
+    Chicago,IL60601 USA 
+---------------------------------- 
+Code     Item                                                            SubTotal       Taxes        Fees       Total 
+ff23     Wireless5G Router  (25.0 units at 124.99/unit)                 $ 3124.75    $ 218.73      $ 0.00 
+90fa     Long Distance Service  (413.0 days at 0.0/yr)                  $ 13578.08   $ 577.07      $ 2000.00 
+                                                                        =============================================== 
+SUB-TOTALS                                                              $ 16702.83   $ 0.00        $ 2000.00   $ 18702.83 
+COMPLIANCE FEE                                                                                                 $ 125.00 
+FINAL TOTAL                                                                                                    $ 18827.83 
+
+
+---------------------------------- 
+Invoice: INV001 
+Date:  Feb 01, 2016 
+---------------------------------- 
+Saleperson:  Eccleston Chris 
+Customer:  
+    Stark Industries ( C002 )  
+    ( Business ) 
+    [McCoy, Sylvester] 
+    912 E Kirwin Ave 
+   Salina,KS67401 USA 
+---------------------------------- 
+Code     Item                                                            SubTotal       Taxes        Fees           Total 
+b29e     Satellite Receiver  (2.0 units at 2500.0/unit)                 $ 5000.00    $ 350.00      $ 0.00 
+90fa     Long Distance Service  (182.0 days at 0.0/yr)                  $ 5983.56    $ 254.30      $ 2000.00 
+                                                                        =============================================== 
+SUB-TOTALS                                                              $ 10983.56   $ 604.30      $ 2000.00   $ 13587.86 
+COMPLIANCE FEE                                                                                                 $ 0.00 
+FINAL TOTAL                                                                                                    $ 13587.86 
+
+
+---------------------------------- 
+Invoice: INV002 
+Date:  Jan 19, 2016 
+---------------------------------- 
+Saleperson:  Smith Matt 
+Customer:  
+    University of Nebraska-Lincoln ( C001 )  
+    ( Business ) 
+    [Earl, Holley] 
+    259 Avery Hall 
+   Lincoln,NE68588 USA 
+---------------------------------- 
+Code     Item                                                            SubTotal       Taxes        Fees           Total 
+ff23     Wireless5G Router  (25.0 units at 124.99/unit)                 $ 3124.75    $ 218.73      $ 0.00 
+3289     Turbo Upgrade-Internet  (10.0 hours at 0.0/hr)                 $ 250.00     $ 10.63       $ 150.00 
+1239     Digital Setup Box  (1.0 units at 200.0/unit)                   $ 200.00     $ 14.00       $ 0.00 
+                                                                        =============================================== 
+SUB-TOTALS                                                              $ 3574.75    $ 243.36      $ 150.00    $ 3968.11 
+COMPLIANCE FEE                                                                                                 $ 0.00 
+FINAL TOTAL                                                                                                    $ 3968.11 
+
+
